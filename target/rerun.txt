@@ -1,0 +1,9 @@
+file:src/main/resources/feature/F02_Login.feature:5
+file:src/main/resources/feature/F03_Currencies.feature:4
+file:src/main/resources/feature/F08_Wishlist.feature:4
+file:src/main/resources/feature/F04_HoverCategoey.feature:4
+file:src/main/resources/feature/F09_ShoppingCart.feature:4
+file:src/main/resources/feature/F07_FollowUs.feature:8:12:16:20
+file:src/main/resources/feature/F01_Register.feature:5
+file:src/main/resources/feature/F06_HomeSlider.feature:4:8
+file:src/main/resources/feature/F05_Search.feature:4

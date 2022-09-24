@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: org.example.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 141.189 s <<< FAILURE! - in org.example.runner.TestRunner
+first slider user push slider(user can push slider)  Time elapsed: 5.135 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...emo.nopcommerce.com/[]> but was:<...emo.nopcommerce.com/[htc-one-mini-blue]>
+
+second slider user push slider(user can push slider)  Time elapsed: 4.152 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...emo.nopcommerce.com/[]> but was:<...emo.nopcommerce.com/[nokia-lumia-1020]>
+
